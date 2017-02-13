@@ -5,7 +5,7 @@ import collectorOfVacancies.big01.model.*;
 import collectorOfVacancies.big01.view.HtmlView;
 
 /**
- * Created by Алина on 10.01.2017.
+ * Created by Алина on 11.01.2017.
  */
 public class Aggregator {
     public static void main(String[] args) {
